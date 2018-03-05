@@ -1,0 +1,27 @@
+[
+    {   
+        "name":"M.S. Dhoni", 
+        "club":"CSK", 
+        "country":"India"  
+    },
+    {   
+        "name":"Virat Kohli", 
+        "club":"RCB", 
+        "country":"India"  
+    },
+    {   
+        "name":"Hardik Pandya", 
+        "club":"MI", 
+        "country":"India"  
+    },
+    {   
+        "name":"Rohit Sharma", 
+        "club":"MI", 
+        "country":"India"  
+    },
+    {   
+        "name":"Ab De Villiers", 
+        "club":"RCB", 
+        "country":"South Africa"  
+    }
+]
