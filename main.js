@@ -5,7 +5,7 @@ document.getElementById("myInput").style.display = 'none';
 
 btn_getInfo.addEventListener("click",function(){
     var ourRequest = new XMLHttpRequest();
-    ourRequest.open('GET','https://vrihas123.github.io/ajax-json/players_info.json');
+    ourRequest.open('GET','https://thakersamveg608.github.io/ajax-implementation/data.json');
     ourRequest.onload = function(){
         var data = JSON.parse(ourRequest.responseText);
         console.log(data);
